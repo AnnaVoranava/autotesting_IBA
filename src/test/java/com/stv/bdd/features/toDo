@@ -1,0 +1,4 @@
+When User clicks on Continue shopping link
+    Then Wiggle home page is displayed
+    When User clicks on Popular Brands Item logo
+    Then Popular Brand Item page is displayed
